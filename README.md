@@ -155,6 +155,23 @@ Ferramentas baseadas em **Modelos de Linguagem de Grande Escala (LLMs)** foram u
 
 ---
 
+## 📚 Documentação escrita
+
+- [Firebase para Android — Documentação oficial](https://firebase.google.com/docs/android/setup)
+- [Firebase Authentication para Android](https://firebase.google.com/docs/auth/android/start)
+- [Firebase Realtime Database para Android](https://firebase.google.com/docs/database/android/start)
+- [Cloud Firestore para Android](https://firebase.google.com/docs/firestore/quickstart)
+- [Room Persistence Library](https://developer.android.com/training/data-storage/room)
+- [Guia Material Design](https://material.io/develop/android)
+
+### Outros recursos
+
+- [Exemplo de JSON de questões do quiz](https://github.com/bimalkaf/Android_QuizAppWithFirebase/blob/main/question.json)
+- [Repositório com exemplos de quiz app — Jetpack Compose](https://github.com/worldsat/project247)
+- Curso em texto: *Desenvolvimento Android com Firebase* (Alura, DevMedia, etc.)
+
+---
+
 ## 📜 Licença
 
 Projeto desenvolvido com fins acadêmicos. Uso livre para estudo e referência.
